@@ -134,6 +134,7 @@ body{
     border-radius: 20px;
     border: 0.1px solid rgb(231,231,231);
     text-align: center;
+    color: black;
 }
 .feature-image{
     width: 300px;
@@ -188,6 +189,7 @@ section{
     overflow: hidden;
     position: relative;
     margin-left: 1em;
+    color: black;
 }
 .section-2-item:first-child{
     margin-left: 0;
